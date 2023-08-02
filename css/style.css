@@ -1,0 +1,86 @@
+
+    body{
+        background-image: url(https://images.unsplash.com/photo-1518655048521-f130df041f66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+        background-size: 100%;     
+    }
+
+
+    *{
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+
+    #Encabezado{
+        background-color: rgba(0, 0, 0, 0.08);
+        text-align: center;
+    }
+
+
+   #imagen_inicial{
+        width: 150px;
+        height: 150px;
+        border-radius: 150px;
+        filter: grayscale(10%);
+   }
+
+
+    #Encabezado h1{
+        text-align: center;
+        font-family: cursive;
+    }
+
+
+    #tabla_indice{
+        border: 1px solid black;
+        margin-left: 30%;
+    }
+ 
+
+    p{
+        font-size: large;
+    }
+
+
+    #Educacion {
+        border: 1px solid black;
+        background-color:#f8f6e2 ;
+                text-align: center;
+        
+    }
+
+
+    td, th{
+        border: 1px solid black;
+    }
+
+
+    #linkedin{
+        width: 100px;
+        height: 100px;
+      } 
+
+
+    #instagram{
+        width: 100px;
+        height: 100px;
+      } 
+
+      
+    .perfiles_sociales h2 {
+        font: 100;
+     }
+
+
+    .experiencia_profesional a{
+        color: lightblue;
+     }
+     
+
+    .experiencia_profesional table{
+        border: 1px solid black;
+        background-color:#f2fdf5 ;
+        text-align: center;
+    }
+
+   
+    
